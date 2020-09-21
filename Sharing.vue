@@ -55,11 +55,6 @@ export default {
 			window: ``,
 		}
 	},
-	mounted() {
-		if (process.browser) {
-			this.window = window
-		}
-	},
 }
 </script>
 <style lang="scss">
