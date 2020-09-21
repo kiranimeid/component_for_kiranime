@@ -1,0 +1,1 @@
+# component_for_kiranime
