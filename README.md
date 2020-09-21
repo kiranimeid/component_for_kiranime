@@ -1,1 +1,3 @@
-# component_for_kiranime
+# component for kiranime vue
+
+- Social Sharing component
